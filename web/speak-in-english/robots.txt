@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /data
+Allow: /
+
+Sitemap: https://speak-in-english/sitemap.xml
+#DaumWebMasterTool:ec0de314735192d3e7a17157641a26228c2c2359bbebd3787e593732e45be8f5:4ymDaz70TQYdB3eduil2hg==

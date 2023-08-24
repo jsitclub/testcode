@@ -1,0 +1,406 @@
+{
+    "data": [
+        
+        {
+            "en": "airport",
+            "ko": "공항"
+        },
+        {
+            "en": "amusement park",
+            "ko": "놀이공원"
+        },
+        {
+            "en": "aquarium",
+            "ko": "수족관"
+        },
+        {
+            "en": "art gallery",
+            "ko": "미술관"
+        },
+        {
+            "en": "bakery",
+            "ko": "빵집"
+        },
+        {
+            "en": "bank",
+            "ko": "은행"
+        },
+        {
+            "en": "bar",
+            "ko": "바"
+        },
+        {
+            "en": "barber shop",
+            "ko": "이발소"
+        },
+        {
+            "en": "beach",
+            "ko": "해변"
+        },
+        {
+            "en": "bookstore",
+            "ko": "서점"
+        },
+        {
+            "en": "bus station",
+            "ko": "버스 정류장"
+        },
+        {
+            "en": "cafe",
+            "ko": "카페"
+        },
+        {
+            "en": "campground",
+            "ko": "캠핑장"
+        },
+        {
+            "en": "campus",
+            "ko": "캠퍼스"
+        },
+        {
+            "en": "castle",
+            "ko": "성"
+        },
+        {
+            "en": "cemetery",
+            "ko": "묘지"
+        },
+        {
+            "en": "church",
+            "ko": "교회"
+        },
+        {
+            "en": "city hall",
+            "ko": "시청"
+        },
+        {
+            "en": "cinema",
+            "ko": "영화관"
+        },
+        {
+            "en": "clinic",
+            "ko": "의원"
+        },
+        {
+            "en": "club",
+            "ko": "클럽"
+        },
+        {
+            "en": "college",
+            "ko": "대학"
+        },
+        {
+            "en": "concert hall",
+            "ko": "음악당"
+        },
+        {
+            "en": "courthouse",
+            "ko": "법원"
+        },
+        {
+            "en": "desert",
+            "ko": "사막"
+        },
+        {
+            "en": "elementary school",
+            "ko": "초등학교"
+        },
+        {
+            "en": "factory",
+            "ko": "공장"
+        },
+        {
+            "en": "farm",
+            "ko": "농장"
+        },
+        {
+            "en": "fire station",
+            "ko": "소방서"
+        },
+        {
+            "en": "florist",
+            "ko": "꽃집"
+        },
+        {
+            "en": "forest",
+            "ko": "숲"
+        },
+        {
+            "en": "fountain",
+            "ko": "분수"
+        },
+        {
+            "en": "gas station",
+            "ko": "주유소"
+        },
+        {
+            "en": "gym",
+            "ko": "체육관"
+        },
+        {
+            "en": "harbor",
+            "ko": "항구"
+        },
+        {
+            "en": "high school",
+            "ko": "고등학교"
+        },
+        {
+            "en": "hill",
+            "ko": "언덕"
+        },
+        {
+            "en": "hospital",
+            "ko": "병원"
+        },
+        {
+            "en": "hotel",
+            "ko": "호텔"
+        },
+        {
+            "en": "island",
+            "ko": "섬"
+        },
+        {
+            "en": "kindergarten",
+            "ko": "유치원"
+        },
+        {
+            "en": "lakeside",
+            "ko": "호숫가"
+        },
+        {
+            "en": "library",
+            "ko": "도서관"
+        },
+        {
+            "en": "market",
+            "ko": "시장"
+        },
+        {
+            "en": "mountain",
+            "ko": "산"
+        },
+        {
+            "en": "museum",
+            "ko": "박물관"
+        },
+        {
+            "en": "night club",
+            "ko": "나이트 클럽"
+        },
+        {
+            "en": "office",
+            "ko": "사무실"
+        },
+        {
+            "en": "park",
+            "ko": "공원"
+        },
+        {
+            "en": "parking lot",
+            "ko": "주차장"
+        },
+        {
+            "en": "pharmacy",
+            "ko": "약국"
+        },
+        {
+            "en": "playground",
+            "ko": "놀이터"
+        },
+        {
+            "en": "police station",
+            "ko": "경찰서"
+        },
+        {
+            "en": "post office",
+            "ko": "우체국"
+        },
+        {
+            "en": "prison",
+            "ko": "교도소"
+        },
+        {
+            "en": "restaurant",
+            "ko": "식당"
+        },
+        {
+            "en": "river",
+            "ko": "강"
+        },
+        {
+            "en": "school",
+            "ko": "학교"
+        },
+        {
+            "en": "shopping center",
+            "ko": "쇼핑 센터"
+        },
+        {
+            "en": "shopping mall",
+            "ko": "쇼핑몰"
+        },
+        {
+            "en": "skate park",
+            "ko": "스케이트장"
+        },
+        {
+            "en": "stadium",
+            "ko": "경기장"
+        },
+        {
+            "en": "subway station",
+            "ko": "지하철역"
+        },
+        {
+            "en": "supermarket",
+            "ko": "슈퍼마켓"
+        },
+        {
+            "en": "swimming pool",
+            "ko": "수영장"
+        },
+        {
+            "en": "temple",
+            "ko": "신전, 사찰"
+        },
+        {
+            "en": "theater",
+            "ko": "극장"
+        },
+        {
+            "en": "town square",
+            "ko": "마을광장"
+        },
+        {
+            "en": "train station",
+            "ko": "기차역"
+        },
+        {
+            "en": "university",
+            "ko": "대학교"
+        },
+        {
+            "en": "veterinary clinic",
+            "ko": "동물병원"
+        },
+        {
+            "en": "village",
+            "ko": "마을"
+        },
+        {
+            "en": "waterfall",
+            "ko": "폭포"
+        },
+        {
+            "en": "woods",
+            "ko": "숲"
+        },
+        {
+            "en": "workshop",
+            "ko": "작업장"
+        },
+        {
+            "en": "zoo",
+            "ko": "동물원"
+        },
+        {
+            "en": "bridge",
+            "ko": "다리"
+        },
+        {
+            "en": "coffee shop",
+            "ko": "커피숍"
+        },
+        {
+            "en": "garden",
+            "ko": "정원"
+        },
+        {
+            "en": "hair salon",
+            "ko": "미용실"
+        },
+        {
+            "en": "ice rink",
+            "ko": "스케이트장"
+        },
+        {
+            "en": "jewelry store",
+            "ko": "보석 상점"
+        },
+        {
+            "en": "lighthouse",
+            "ko": "등대"
+        },
+        {
+            "en": "movie theater",
+            "ko": "영화관"
+        },
+        {
+            "en": "palace",
+            "ko": "궁전"
+        },
+        {
+            "en": "spa",
+            "ko": "스파"
+        },
+        {
+            "en": "toy store",
+            "ko": "장난감 가게"
+        },
+        {
+            "en": "tunnel",
+            "ko": "터널"
+        },
+        {
+            "en": "vineyard",
+            "ko": "포도밭"
+        },
+        {
+            "en": "volcano",
+            "ko": "화산"
+        },
+        {
+            "en": "bakery",
+            "ko": "빵집"
+        },
+        {
+            "en": "bus stop",
+            "ko": "버스 정류장"
+        },
+        {
+            "en": "cabin",
+            "ko": "오두막"
+        },
+        {
+            "en": "cave",
+            "ko": "동굴"
+        },
+        {
+            "en": "greenhouse",
+            "ko": "온실"
+        },
+        {
+            "en": "laundromat",
+            "ko": "빨래방"
+        },
+        {
+            "en": "loft",
+            "ko": "다락방"
+        },
+        {
+            "en": "observatory",
+            "ko": "천문대"
+        },
+        {
+            "en": "rooftop",
+            "ko": "옥상"
+        },
+        {
+            "en": "ruins",
+            "ko": "폐허"
+        }
+    
+    ]
+}
