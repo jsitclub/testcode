@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "en": "airplane",
+            "ko": "비행기"
+        },
+        {
+            "en": "apple",
+            "ko": "사과"
+        },
+        {
+            "en": "backpack",
+            "ko": "배낭"
+        },
+        {
+            "en": "ball",
+            "ko": "공"
+        },
+        {
+            "en": "bed",
+            "ko": "침대"
+        },
+        {
+            "en": "bicycle",
+            "ko": "자전거"
+        },
+        {
+            "en": "book",
+            "ko": "책"
+        },
+        {
+            "en": "bottle",
+            "ko": "병"
+        },
+        {
+            "en": "box",
+            "ko": "상자"
+        },
+        {
+            "en": "camera",
+            "ko": "카메라"
+        },
+        {
+            "en": "car",
+            "ko": "자동차"
+        },
+        {
+            "en": "chair",
+            "ko": "의자"
+        },
+        {
+            "en": "clock",
+            "ko": "시계"
+        },
+        {
+            "en": "computer",
+            "ko": "컴퓨터"
+        },
+        {
+            "en": "cup",
+            "ko": "컵"
+        },
+        {
+            "en": "desk",
+            "ko": "책상"
+        },
+        {
+            "en": "door",
+            "ko": "문"
+        },
+        {
+            "en": "envelope",
+            "ko": "봉투"
+        },
+        {
+            "en": "eyeglasses",
+            "ko": "안경"
+        },
+        {
+            "en": "fan",
+            "ko": "선풍기"
+        },
+        {
+            "en": "flower",
+            "ko": "꽃"
+        },
+        {
+            "en": "fork",
+            "ko": "포크"
+        },
+        {
+            "en": "fridge",
+            "ko": "냉장고"
+        },
+        {
+            "en": "glass",
+            "ko": "유리컵"
+        },
+        {
+            "en": "guitar",
+            "ko": "기타"
+        },
+        {
+            "en": "hammer",
+            "ko": "망치"
+        },
+        {
+            "en": "hat",
+            "ko": "모자"
+        },
+        {
+            "en": "headphones",
+            "ko": "헤드폰"
+        },
+        {
+            "en": "house",
+            "ko": "집"
+        },
+        {
+            "en": "key",
+            "ko": "열쇠"
+        },
+        {
+            "en": "knife",
+            "ko": "칼"
+        },
+        {
+            "en": "lamp",
+            "ko": "램프"
+        },
+        {
+            "en": "laptop",
+            "ko": "노트북"
+        },
+        {
+            "en": "umbrella",
+            "ko": "우산"
+        },
+        {
+            "en": "map",
+            "ko": "지도"
+        },
+        {
+            "en": "microphone",
+            "ko": "마이크"
+        },
+        {
+            "en": "motorcycle",
+            "ko": "오토바이"
+        },
+        {
+            "en": "newspaper",
+            "ko": "신문"
+        },
+        {
+            "en": "notebook",
+            "ko": "공책"
+        },
+        {
+            "en": "orange",
+            "ko": "오렌지"
+        },
+        {
+            "en": "pants",
+            "ko": "바지"
+        },
+        {
+            "en": "pen",
+            "ko": "펜"
+        },
+        {
+            "en": "pencil",
+            "ko": "연필"
+        },
+        {
+            "en": "phone",
+            "ko": "전화기"
+        },
+        {
+            "en": "picture",
+            "ko": "그림"
+        },
+        {
+            "en": "pillow",
+            "ko": "베개"
+        },
+        {
+            "en": "plate",
+            "ko": "접시"
+        },
+        {
+            "en": "radio",
+            "ko": "라디오"
+        },
+        {
+            "en": "refrigerator",
+            "ko": "냉장고"
+        },
+        {
+            "en": "ruler",
+            "ko": "자"
+        },
+        {
+            "en": "scissors",
+            "ko": "가위"
+        },
+        {
+            "en": "shelf",
+            "ko": "선반"
+        },
+        {
+            "en": "shoe",
+            "ko": "신발"
+        },
+        {
+            "en": "smartphone",
+            "ko": "스마트폰"
+        },
+        {
+            "en": "sofa",
+            "ko": "소파"
+        },
+        {
+            "en": "speaker",
+            "ko": "스피커"
+        },
+        {
+            "en": "spoon",
+            "ko": "숟가락"
+        },
+        {
+            "en": "stapler",
+            "ko": "스테이플러"
+        },
+        {
+            "en": "table",
+            "ko": "테이블"
+        },
+        {
+            "en": "television",
+            "ko": "텔레비전"
+        },
+        {
+            "en": "towel",
+            "ko": "수건"
+        },
+        {
+            "en": "toy",
+            "ko": "장난감"
+        },
+        {
+            "en": "train",
+            "ko": "기차"
+        },
+        {
+            "en": "trash can",
+            "ko": "쓰레기통"
+        },
+        {
+            "en": "tree",
+            "ko": "나무"
+        },
+        {
+            "en": "truck",
+            "ko": "화물차"
+        },
+        {
+            "en": "vase",
+            "ko": "꽃병"
+        },
+        {
+            "en": "watch",
+            "ko": "손목시계"
+        },
+        {
+            "en": "water",
+            "ko": "물"
+        },
+        {
+            "en": "window",
+            "ko": "창문"
+        },
+        {
+            "en": "shirt",
+            "ko": "셔츠"
+        },
+        {
+            "en": "umbrella",
+            "ko": "우산"
+        },
+        {
+            "en": "wallet",
+            "ko": "지갑"
+        },
+        {
+            "en": "suitcase",
+            "ko": "여행가방"
+        },
+        {
+            "en": "dress",
+            "ko": "원피스"
+        },
+        {
+            "en": "belt",
+            "ko": "벨트"
+        },
+        {
+            "en": "glasses",
+            "ko": "안경"
+        },
+        {
+            "en": "brush",
+            "ko": "브러시"
+        },
+        {
+            "en": "toothbrush",
+            "ko": "칫솔"
+        },
+        {
+            "en": "soap",
+            "ko": "비누"
+        },
+        {
+            "en": "shampoo",
+            "ko": "샴푸"
+        },
+        {
+            "en": "broom",
+            "ko": "빗자루"
+        },
+        {
+            "en": "mop",
+            "ko": "대걸레"
+        },
+        {
+            "en": "oven",
+            "ko": "오븐"
+        },
+        {
+            "en": "microwave",
+            "ko": "전자레인지"
+        },
+        {
+            "en": "pot",
+            "ko": "냄비"
+        },
+        {
+            "en": "frying pan",
+            "ko": "프라이팬"
+        },
+        {
+            "en": "mixer",
+            "ko": "믹서기"
+        },
+        {
+            "en": "rice cooker",
+            "ko": "밥솥"
+        },
+        {
+            "en": "extension cord",
+            "ko": "연장선"
+        },
+        {
+            "en": "battery",
+            "ko": "배터리"
+        },
+        {
+            "en": "tape",
+            "ko": "테이프"
+        },
+        {
+            "en": "paperclip",
+            "ko": "클립"
+        },
+        {
+            "en": "rubber band",
+            "ko": "고무줄"
+        },
+        {
+            "en": "tissue",
+            "ko": "얇은 직물"
+        },
+        {
+            "en": "sandwich",
+            "ko": "샌드위치"
+        },
+        {
+            "en": "coffee cup",
+            "ko": "커피잔"
+        },
+        {
+            "en": "calculator",
+            "ko": "계산기"
+        },
+        {
+            "en": "binoculars",
+            "ko": "쌍안경"
+        },
+        {
+            "en": "flashlight",
+            "ko": "손전등"
+        }
+    ]
+}

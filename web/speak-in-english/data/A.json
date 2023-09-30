@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "en": "good",
+            "ko": "좋은"
+        },
+        {
+            "en": "new",
+            "ko": "새로운"
+        },
+        {
+            "en": "first",
+            "ko": "첫 번째"
+        },
+        {
+            "en": "last",
+            "ko": "마지막"
+        },
+        {
+            "en": "long",
+            "ko": "긴"
+        },
+        {
+            "en": "great",
+            "ko": "훌륭한"
+        },
+        {
+            "en": "little",
+            "ko": "작은"
+        },
+        {
+            "en": "own",
+            "ko": "소유한"
+        },
+        {
+            "en": "other",
+            "ko": "다른"
+        },
+        {
+            "en": "old",
+            "ko": "오래된"
+        },
+        {
+            "en": "right",
+            "ko": "올바른"
+        },
+        {
+            "en": "big",
+            "ko": "큰"
+        },
+        {
+            "en": "high",
+            "ko": "높은"
+        },
+        {
+            "en": "different",
+            "ko": "다른"
+        },
+        {
+            "en": "small",
+            "ko": "작은"
+        },
+        {
+            "en": "large",
+            "ko": "커다란"
+        },
+        {
+            "en": "next",
+            "ko": "다음"
+        },
+        {
+            "en": "early",
+            "ko": "이른"
+        },
+        {
+            "en": "young",
+            "ko": "젊은"
+        },
+        {
+            "en": "important",
+            "ko": "중요한"
+        },
+        {
+            "en": "few",
+            "ko": "소수의"
+        },
+        {
+            "en": "public",
+            "ko": "공공의"
+        },
+        {
+            "en": "bad",
+            "ko": "나쁜"
+        },
+        {
+            "en": "same",
+            "ko": "같은"
+        },
+        {
+            "en": "able",
+            "ko": "할 수 있는"
+        },
+        {
+            "en": "local",
+            "ko": "지역의"
+        },
+        {
+            "en": "sure",
+            "ko": "확실한"
+        },
+        {
+            "en": "better",
+            "ko": "더 좋은"
+        },
+        {
+            "en": "general",
+            "ko": "일반적인"
+        },
+        {
+            "en": "full",
+            "ko": "가득한"
+        },
+        {
+            "en": "far",
+            "ko": "먼"
+        },
+        {
+            "en": "dry",
+            "ko": "건조한"
+        },
+        {
+            "en": "real",
+            "ko": "진짜의"
+        },
+        {
+            "en": "best",
+            "ko": "최고의"
+        },
+        {
+            "en": "clear",
+            "ko": "명확한"
+        },
+        {
+            "en": "happy",
+            "ko": "행복한"
+        },
+        {
+            "en": "short",
+            "ko": "짧은"
+        },
+        {
+            "en": "low",
+            "ko": "낮은"
+        },
+        {
+            "en": "late",
+            "ko": "늦은"
+        },
+        {
+            "en": "hard",
+            "ko": "어려운"
+        },
+        {
+            "en": "ready",
+            "ko": "준비된"
+        },
+        {
+            "en": "open",
+            "ko": "개방적인"
+        },
+        {
+            "en": "red",
+            "ko": "붉은"
+        },
+        {
+            "en": "difficult",
+            "ko": "어려운"
+        },
+        {
+            "en": "available",
+            "ko": "이용 가능한"
+        },
+        {
+            "en": "likely",
+            "ko": "그럴 듯한"
+        },
+        {
+            "en": "short",
+            "ko": "짧은"
+        },
+        {
+            "en": "single",
+            "ko": "단일의"
+        },
+        {
+            "en": "personal",
+            "ko": "개인적인"
+        },
+        {
+            "en": "past",
+            "ko": "지나간"
+        },
+        {
+            "en": "free",
+            "ko": "자유로운"
+        },
+        {
+            "en": "new",
+            "ko": "새로운"
+        },
+        {
+            "en": "strong",
+            "ko": "강한"
+        },
+        {
+            "en": "wide",
+            "ko": "넓은"
+        },
+        {
+            "en": "wonderful",
+            "ko": "멋진"
+        },
+        {
+            "en": "heavy",
+            "ko": "무거운"
+        },
+        {
+            "en": "dear",
+            "ko": "소중한"
+        },
+        {
+            "en": "expensive",
+            "ko": "비싼"
+        },
+        {
+            "en": "rare",
+            "ko": "드문"
+        },
+        {
+            "en": "recent",
+            "ko": "최근의"
+        },
+        {
+            "en": "thin",
+            "ko": "얇은"
+        },
+        {
+            "en": "busy",
+            "ko": "바쁜"
+        },
+        {
+            "en": "careful",
+            "ko": "주의 깊은"
+        },
+        {
+            "en": "rich",
+            "ko": "부유한"
+        },
+        {
+            "en": "angry",
+            "ko": "화난"
+        },
+        {
+            "en": "afraid",
+            "ko": "무서워하는"
+        },
+        {
+            "en": "fine",
+            "ko": "좋은"
+        },
+        {
+            "en": "common",
+            "ko": "흔한"
+        },
+        {
+            "en": "poor",
+            "ko": "가난한"
+        },
+        {
+            "en": "natural",
+            "ko": "자연스러운"
+        },
+        {
+            "en": "easy",
+            "ko": "쉬운"
+        },
+        {
+            "en": "necessary",
+            "ko": "필수적인"
+        },
+        {
+            "en": "warm",
+            "ko": "따뜻한"
+        },
+        {
+            "en": "simple",
+            "ko": "간단한"
+        },
+        {
+            "en": "cold",
+            "ko": "차가운"
+        },
+        {
+            "en": "fresh",
+            "ko": "신선한"
+        },
+        {
+            "en": "full",
+            "ko": "가득한"
+        },
+        {
+            "en": "slow",
+            "ko": "느린"
+        },
+        {
+            "en": "hot",
+            "ko": "뜨거운"
+        },
+        {
+            "en": "dark",
+            "ko": "어두운"
+        },
+        {
+            "en": "second",
+            "ko": "두 번째"
+        },
+        {
+            "en": "early",
+            "ko": "이른"
+        },
+        {
+            "en": "beautiful",
+            "ko": "아름다운"
+        },
+        {
+            "en": "nice",
+            "ko": "즐거운"
+        },
+        {
+            "en": "special",
+            "ko": "특별한"
+        },
+        {
+            "en": "famous",
+            "ko": "유명한"
+        },
+        {
+            "en": "healthy",
+            "ko": "건강한"
+        },
+        {
+            "en": "weak",
+            "ko": "약한"
+        },
+        {
+            "en": "wrong",
+            "ko": "잘못된"
+        },
+        {
+            "en": "fast",
+            "ko": "빠른"
+        },
+        {
+            "en": "professional",
+            "ko": "전문적인"
+        },
+        {
+            "en": "deep",
+            "ko": "깊은"
+        },
+        {
+            "en": "dead",
+            "ko": "죽은"
+        },
+        {
+            "en": "whole",
+            "ko": "전체의"
+        },
+        {
+            "en": "smart",
+            "ko": "똑똑한"
+        },
+        {
+            "en": "clean",
+            "ko": "깨끗한"
+        },
+        {
+            "en": "green",
+            "ko": "녹색의"
+        },
+        {
+            "en": "safe",
+            "ko": "안전한"
+        },
+        {
+            "en": "thin",
+            "ko": "얇은"
+        },
+        {
+            "en": "cool",
+            "ko": "시원한"
+        }
+    ]
+}

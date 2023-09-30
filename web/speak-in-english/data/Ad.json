@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "en": "Only",
+            "ko": "오직"
+        },
+        {
+            "en": "Just",
+            "ko": "단지"
+        },
+        {
+            "en": "Now",
+            "ko": "지금"
+        },
+        {
+            "en": "Also",
+            "ko": "또한"
+        },
+        {
+            "en": "Then",
+            "ko": "그 때"
+        },
+        {
+            "en": "Well",
+            "ko": "잘"
+        },
+        {
+            "en": "Very",
+            "ko": "매우"
+        },
+        {
+            "en": "Really",
+            "ko": "정말로"
+        },
+        {
+            "en": "Still",
+            "ko": "여전히"
+        },
+        {
+            "en": "Never",
+            "ko": "결코"
+        },
+        {
+            "en": "Always",
+            "ko": "항상"
+        },
+        {
+            "en": "Often",
+            "ko": "자주"
+        },
+        {
+            "en": "Sometimes",
+            "ko": "때때로"
+        },
+        {
+            "en": "Usually",
+            "ko": "보통"
+        },
+        {
+            "en": "Probably",
+            "ko": "아마도"
+        },
+        {
+            "en": "Almost",
+            "ko": "거의"
+        },
+        {
+            "en": "Quickly",
+            "ko": "빨리"
+        },
+        {
+            "en": "Slowly",
+            "ko": "천천히"
+        },
+        {
+            "en": "Together",
+            "ko": "함께"
+        },
+        {
+            "en": "Alone",
+            "ko": "혼자"
+        },
+        {
+            "en": "However",
+            "ko": "하지만"
+        },
+        {
+            "en": "Therefore",
+            "ko": "따라서"
+        },
+        {
+            "en": "Enough",
+            "ko": "충분히"
+        },
+        {
+            "en": "Quite",
+            "ko": "아주"
+        },
+        {
+            "en": "Suddenly",
+            "ko": "갑자기"
+        },
+        {
+            "en": "Finally",
+            "ko": "마침내"
+        },
+        {
+            "en": "Recently",
+            "ko": "최근에"
+        },
+        {
+            "en": "Soon",
+            "ko": "곧"
+        },
+        {
+            "en": "Later",
+            "ko": "나중에"
+        },
+        {
+            "en": "Meanwhile",
+            "ko": "한편"
+        },
+        {
+            "en": "Yet",
+            "ko": "아직도"
+        },
+        {
+            "en": "Already",
+            "ko": "이미"
+        },
+        {
+            "en": "Immediately",
+            "ko": "즉시"
+        },
+        {
+            "en": "Especially",
+            "ko": "특히"
+        },
+        {
+            "en": "Generally",
+            "ko": "일반적으로"
+        },
+        {
+            "en": "Rather",
+            "ko": "상대적으로"
+        },
+        {
+            "en": "Too",
+            "ko": "너무"
+        },
+        {
+            "en": "Actually",
+            "ko": "실제로"
+        },
+        {
+            "en": "Earlier",
+            "ko": "이전에"
+        },
+        {
+            "en": "Instead",
+            "ko": "대신에"
+        },
+        {
+            "en": "Similarly",
+            "ko": "비슷하게"
+        },
+        {
+            "en": "Certainly",
+            "ko": "확실히"
+        },
+        {
+            "en": "Besides",
+            "ko": "게다가"
+        },
+        {
+            "en": "Perhaps",
+            "ko": "아마도"
+        },
+        {
+            "en": "Simply",
+            "ko": "간단히"
+        },
+        {
+            "en": "Neither",
+            "ko": "둘 다 아니다"
+        },
+        {
+            "en": "Either",
+            "ko": "둘 중 하나"
+        },
+        {
+            "en": "Otherwise",
+            "ko": "그렇지 않으면"
+        },
+        {
+            "en": "Ever",
+            "ko": "언제나"
+        },
+        {
+            "en": "Currently",
+            "ko": "현재"
+        },
+        {
+            "en": "Anywhere",
+            "ko": "어디든지"
+        },
+        {
+            "en": "Elsewhere",
+            "ko": "다른 곳에서"
+        },
+        {
+            "en": "Meanwhile",
+            "ko": "그 동안"
+        },
+        {
+            "en": "Anyway",
+            "ko": "어쨌든"
+        },
+        {
+            "en": "Above",
+            "ko": "위에"
+        },
+        {
+            "en": "Below",
+            "ko": "아래에"
+        },
+        {
+            "en": "Here",
+            "ko": "여기"
+        },
+        {
+            "en": "There",
+            "ko": "거기"
+        },
+        {
+            "en": "Furthermore",
+            "ko": "게다가"
+        },
+        {
+            "en": "Eventually",
+            "ko": "결국"
+        },
+        {
+            "en": "Hence",
+            "ko": "따라서"
+        },
+        {
+            "en": "Though",
+            "ko": "비록"
+        },
+        {
+            "en": "Thus",
+            "ko": "그렇게"
+        },
+        {
+            "en": "Absolutely",
+            "ko": "절대로"
+        },
+        {
+            "en": "Slightly",
+            "ko": "약간"
+        },
+        {
+            "en": "Please",
+            "ko": "제발"
+        },
+        {
+            "en": "Rarely",
+            "ko": "거의 없다"
+        },
+        {
+            "en": "Directly",
+            "ko": "직접적으로"
+        },
+        {
+            "en": "Highly",
+            "ko": "매우"
+        },
+        {
+            "en": "Apparently",
+            "ko": "보아하니"
+        },
+        {
+            "en": "Nearby",
+            "ko": "근처에"
+        },
+        {
+            "en": "Normally",
+            "ko": "보통"
+        },
+        {
+            "en": "Obviously",
+            "ko": "명백하게"
+        },
+        {
+            "en": "Originally",
+            "ko": "원래"
+        },
+        {
+            "en": "Overall",
+            "ko": "전체적으로"
+        },
+        {
+            "en": "Somewhat",
+            "ko": "어느 정도"
+        },
+        {
+            "en": "Throughout",
+            "ko": "도처에"
+        },
+        {
+            "en": "Totally",
+            "ko": "완전히"
+        },
+        {
+            "en": "Unfortunately",
+            "ko": "불행하게도"
+        },
+        {
+            "en": "Widely",
+            "ko": "널리"
+        },
+        {
+            "en": "Clearly",
+            "ko": "명확하게"
+        },
+        {
+            "en": "Daily",
+            "ko": "매일"
+        },
+        {
+            "en": "Exactly",
+            "ko": "정확히"
+        },
+        {
+            "en": "Possibly",
+            "ko": "아마"
+        },
+        {
+            "en": "Primarily",
+            "ko": "주로"
+        },
+        {
+            "en": "Quickly",
+            "ko": "신속하게"
+        },
+        {
+            "en": "Regularly",
+            "ko": "규칙적으로"
+        },
+        {
+            "en": "Significantly",
+            "ko": "상당한"
+        },
+        {
+            "en": "Strictly",
+            "ko": "엄격하게"
+        },
+        {
+            "en": "Surprisingly",
+            "ko": "놀랍게도"
+        },
+        {
+            "en": "Tomorrow",
+            "ko": "내일"
+        },
+        {
+            "en": "Yesterday",
+            "ko": "어제"
+        },
+        {
+            "en": "Ahead",
+            "ko": "앞서"
+        },
+        {
+            "en": "Along",
+            "ko": "동안"
+        },
+        {
+            "en": "Apart",
+            "ko": "떨어져"
+        },
+        {
+            "en": "Back",
+            "ko": "뒤로"
+        },
+        {
+            "en": "Originally",
+            "ko": "원래"
+        },
+        {
+            "en": "Otherwise",
+            "ko": "그렇지 않으면"
+        },
+        {
+            "en": "So",
+            "ko": "그래서"
+        },
+        {
+            "en": "Subsequently",
+            "ko": "그 후"
+        }
+    ]
+}
