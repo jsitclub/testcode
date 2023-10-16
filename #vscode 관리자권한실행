@@ -1,0 +1,7 @@
+in terminal
+
+1. 
+vscode
+
+2. 
+sudo code --user-data-dir="~/.vscode-root"
