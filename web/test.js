@@ -1,5 +1,5 @@
 function init(){
     
-    document.getElementById("title").innerHTML="hello";
+    document.getElementById("title").innerHTML="hfffello".length;
 
 }
