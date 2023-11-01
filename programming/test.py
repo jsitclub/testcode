@@ -1,18 +1,16 @@
 from bs4 import BeautifulSoup as bs 
-from pprint import pprint
 import requests
 from urllib.request import urlretrieve #추가
 
-html = requests.get('https://www.hanbit.co.kr/store/store_submain.html')
+html = requests.get('https://www.aladin.co.kr/shop/common/wbest.aspx?BranchType=1&BestType=Bestseller')
 # pprint(html.text)
 
 soup = bs(html.text,'html.parser')
 
-imgs = soup.find_all('img',{'class':'thumb'})
+books = soup.find_all('div',{'class':'ss_book_box'})
 
-# print(imgs)
-
-for book in imgs:
-    img_src='https://www.hanbit.co.kr'+book['src']
-    urlretrieve( img_src , img_src.split('/')[-1]) 
-    
+for book in books:
+    title=book.find('a',{'class':'bo3'}).text
+    print(title)
+    img_src=book.find('img',{'class':'front_cover'})['src']    
+    print(img_src)
